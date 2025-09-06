@@ -2,7 +2,7 @@
     {
         "scene": "living room",
         "object": "['fan', 'switch']",
-        "instructions": "use switch to turn on the fan"
+        "instructions": "use the switch to turn on the fan"
     },
     {
         "scene": "living room",
@@ -17,12 +17,12 @@
     {
         "scene": "living room",
         "object": "['flower', 'kettle']",
-        "instructions": "use kettle to water the flower"
+        "instructions": "use the kettle to water the flower"
     },
     {
         "scene": "living room",
         "object": "['cat food', 'pet bowl']",
-        "instructions": "pour cat food into the pet bowl"
+        "instructions": "pour the cat food into the pet bowl"
     },
     {
         "scene": "living room",
@@ -42,7 +42,7 @@
     {
         "scene": "living room",
         "object": "['figurine', 'display shelf']",
-        "instructions": "move the figurine to the display shelf"
+        "instructions": "move the figurine onto the display shelf"
     },
     {
         "scene": "living room",
@@ -52,7 +52,7 @@
     {
         "scene": "office",
         "object": "['pen', 'holder']",
-        "instructions": "put the pen in the holder"
+        "instructions": "put the pen into the holder"
     },
     {
         "scene": "office",
